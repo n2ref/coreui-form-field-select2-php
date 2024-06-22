@@ -19,7 +19,7 @@
   "prefer-stable": true,
   "require": {
     "php": ">=8.0.0",
-    "n2ref/coreui-form": "^1.0.3"
+    "n2ref/coreui-form": "^1.0.4, dev-main"
   },
   "autoload": {
     "psr-4": {

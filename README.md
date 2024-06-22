@@ -2,6 +2,7 @@
 
 [Online documentation](https://n2ref.github.io/coreui-form-field-select2)
 
+[js repository](https://n2ref.github.io/coreui-form-field)
 
 ### Install
 
