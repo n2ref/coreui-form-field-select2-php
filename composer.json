@@ -1,0 +1,29 @@
+{
+  "name": "n2ref/coreui-form-field-select2",
+  "type": "framework",
+  "description": "CoreUI Form field select2",
+  "keywords": [
+    "framework",
+    "coreui",
+    "form"
+  ],
+  "homepage": "https://github.com/n2ref/coreui-form-field-select2-php",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "n2ref",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=8.0.0",
+    "n2ref/coreui-form": "^1.0.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "CoreUI\\Form\\Field\\": "src/Field/"
+    }
+  }
+}
